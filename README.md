@@ -457,8 +457,188 @@ On Saturday I completed the weekend recap tasks which helped to solidify the con
 
 Day 31: https://youtu.be/ABns3KYLOfk
 
+Today we were introduced to Testing and Test Drive Development. We looked at different types of testing, such as unit testing, integration UI and acceptance tests.
+
+We then went on to write some of our own tests in Jest using the Arrange, Act and Assert method for testing.
+It was actually very satisfying to see all those green ticks after testing a function we wrote/writing a test. Haha.
+
+
 Day 32: https://youtu.be/e7hy26a8-ME
+
+Today we took a deep- dive into TDD and the Red/Green/Refactor cycle. We also had more practice with Jest and played around with some new concepts.
+In the afternoon we had a guest lecture from the team at cypress who gave us a demonstration of their testing software. It seemed very intuitive and well designed. Looking forward to playing around with it soon.
+We also had time to solve a few katas on Codewars today and I feel like my coding skills have levelled up a bit. Those little baby steps I've been taking every day are starting to add up :)
 
 Day 33: https://youtu.be/p-8V52hINRY
 
+Completed a couple of Codewars challenges in the morning to help get my brain back in gear again after the Jubilee holidays.
+We were introduced to React today. We had a little play around and will be diving deeper into it during the next two weeks.
+Completed a couple of unfinished tasks from some of the previous workshops.
+Took it a bit easy on myself today, as I am feeling a bit unwell and need to rest.
+
+
 Day 34: https://youtu.be/hn9XWE5nOak
+
+More React today. We were introduced to JSX and Props, and then completed more practice tasks.
+Happy to be working on the Front-end again!
+
+We had a great guest talk from Nick Truby who shared some excellent insights into the life of a front-end developer
+We used React Create app for the first time and played around with importing and exporting simple components.
+
+I attended another great workshop led by Hamza Ibrahim which helped cement some of the testing concepts we learned last week.
+In the morning I also began coding along with The Net Ninja React tutorials on Youtube.
+
+Day 35
+
+In the morning we delved further into State and lifting State. We also looked at the difference between ‘smart’ and ‘dumb’ components. We then completed a workshop where we created a simple name generator using React.
+
+I was feeling pretty confident with React until we reached the afternoon workshop and I got my ass kicked by props. I’m still struggling to fully grasp the concept but will have another crack at it tomorrow.
+
+Day 36
+
+I spent a couple of hours before class coding along with NetNinjas React tutorials. After some sleep and more practice I feel that I have a deeper understanding of State, Hooks and Props in React.
+
+We were introduced to a number of JS operators that allow us to edit arrays and objects immutably, including the spread operator, slice, map, filter, some, sort and every. We practiced solving a few codewars style challenges using some of these operators.
+
+Day 37 - Hackathon Friday
+
+We practiced using all the concepts we learned during the week to make a simple to-do list app in React. Putting all the pieces together was much more challenging than I expected, but we managed to complete the task and I am pretty happy with the outcome given the limited amount of time we had. We managed to create a user input field that added text to a list upon clicking a button. We were also able to buttons that removed a particular item from the list.
+
+We also had time to add a button that would display a random motivational quote on the screen, which would hopefully help to motivate the user into doing some of their tasks.
+
+Given more time we would have improved the CSS styling, as the page is very ugly at the moment. We also would have liked to add different types of lists based on priority levels. e.g. a high-priority to-do list and a low-priority to-do list. I feel that this would not be too difficult as it’s just a case of reusing and repurposing the existing component we created, but I might be wrong.
+
+I’m looking forward to improving the project soon.
+
+We also had to present our project to our peers and I am starting to feel a bit more comfortable doing this. My presentation still wasn’t great, but it was better than last time. We have to celebrate the small wins, haha.
+
+Day 38 and 39
+
+I spent a lot of time working on the Weekend Recap Tasks which helped to practice and cement the knowledge we learned during the week.
+
+I also managed to complete the bonus tasks activity which consisted of solving various code wars style challenges using a wide variety of JS methods.
+
+In preparation for next week I watched a number of Net Ninjas React tutorials; introducing myself to various new concepts including the useEffect hook, conditional rendering, error catching/handling and also custom hooks. I plan to watch the videos again tomorrow morning before class, code along with the tutorials, and then try and really break down the code to see what’s going on. But for now, time to enjoy the weekend! :)
+
+Day 40
+
+Spent a few hours in the morning working through Scrimba’s React course, getting more practice with props, conditional rendering , destructuring props etc.
+In the afternoon we learned about the importance of keeping components Pure in React. We were introduced to UseEffect and completed a workshop where we used it to fetch data from an API.
+
+Day 41
+
+Spent an hour before class working through a few more React classes on Scrimba.
+We were introduced to the Finite State Model today and then spent a lot of time learning about the useReducer hook, then worked through a workshop and practised using it. I found it tricky to get my head around but will have another crack at it tomorrow.
+Spent a couple of hours after class making a simple React App that fetched and displays information about Star Wars Characters from an API. Created functionality to display a random character and info about them by clicking a button. Will try and add more functionality to it tomorrow.
+
+Day 42
+
+Worked through a few more Scrimba React classes before class.
+
+We took a deep dive into React testing today using the Arrange, Act and Assert method.
+
+After class, I managed to get the search functionality working on my Pokemon/Star Wars app and added some basic styling. It still looks horrendous but the functionality is there, so I’m happy with the results so far. Will try to add some decent CSS over the weekend.
+
+The mini-project helped me gain more confidence with props, state, useEffect and component layout in general.
+
+Day 43
+
+-Another great Mindset class with a focus on Team Dynamics this week.
+
+-We had a quick but very useful workshop on Git branching.
+
+A great quest talk form the team at Trello, about RESTful API’s.
+
+In the afternoon we had two hours to prepare and record a 4 minute presentation in groups of 4. We recorded a presentation on Agile Project Management tools such as Trello and Jira. It went well and feeling a bit more confident with presenting the more practice I get.
+
+Day 44 – Hackathon Friday
+
+We were given 5 hours to make an MVP of an app using React.
+
+We spent some time researching and testing API’s; focusing on finding one that seemed reliable and offered easy-to-access, useful data. We chose a music API which offered info on bands and artists.
+
+We then used Disney ideation and worked through the Dreamer, Realist and Critic stages in order to come up with an idea of what we wanted to build. We decided upon some basic goals and stretch goals. We then made a low-fidelity wire-frame and component tree of our site on Miro. We made a plan; breaking the app down into tasks/tickets for each feature.
+
+We spent the rest of the day implementing our plan and coding. We then gave a two-minute presentation to our coaches and peers at the end of the day. I am very happy with the results, especially given the short amount of time we had. We were able to implement a search feature which returned info on a band/artist, including; a picture, logo, genre info, biography of the band and a link that directs the user to the Last.fm page for the band/artist.
+
+We also had time to implement two of our stretch goals which were to add a ‘Discover a new band button’, which displays info on a random band and to add CSS styling.
+
+Day 45
+
+Today we started project week. We were given a project brief and put into our new groups of four and to work.
+
+We created a manifesto, brainstormed ideas, created a survey, made some user stories, worked through the Disney Ideation process, defined our final idea, created a flowchart breaking down our app into its component parts and then made a low-fidelity wireframe.
+
+Day 46-49 The rest of Project Week
+What a wild ride!
+
+The team and I worked like dogs in order to make our MVP. It was such a wonderful experience with a team of great people. Lots of shared laughs, frustrations and triumphs were had as we worked towards our goals. My biggest fear at the start of the week was that I wouldn’t gel with the random teammates we were assigned to, but we all got along like a house on fire and quickly became fast friends.
+
+We created a full-stack web application that allows bootcampers to post workshops/lessons they wish to host on any topic of their choosing. We wanted to reward boot campers for their hard work and give them recognition for the help they give to others. Thus, bootcampers receive badges based on the number of sessions they have given, feedback from fellow bootcampers etc.
+
+We managed to achieve all our MVP goals. The user can post info on their study session to our database, and the user can also view all the current study sessions saved on the db. We were able to deploy our databse to Heroku, add some routes to the navbar and apply some CSS styling. If given another week we would have been able to fully implement our badge system, and create the admin dashboard; where the admin can delete entries, see the attendee list etc. The team and I plan to continue working on this as a side project, which I am excited about.
+
+We encountered some roadblocks that cost us a lot of time, and I still feel a bit frustrated that we could have done more, but hindsight is 20/20 and these mistakes are part of the learning journey.
+
+It was great to be able to consolidate all the learning we have done in the last 8 weeks and put all the jigsaw pieces together. It was very beneficial to practice using the Agile methodology, with daily standups, retrospectives, tickets etc. I think this week has really helped set us up for the final 4 week project.
+
+It was also very useful to have some presentation practice, as nerve-wracking as it is.
+
+Again big thanks to my fellow teammates Fabian Deckmann, Jaden Joel, Cambridge CELTA and Sam Safari! Love you all.
+
+“Sometimes you’re ahead, sometimes you’re behind, the race is long and in the end it’s only with yourself.” - Mary Schmich.
+
+Day 50:
+
+I spent a couple of hours before class working through a few of NetNinjas’s React classes and also thinking about how I could incorporate some of the concepts covered into last week’s project.
+
+We remained in our groups from last week’s project and spent the first part of the day doing a Retrospective together. We reflected on what went well, what didn’t go well and why. We then made an action plan on how we could improve these issues next time.
+
+In the afternoon we were introduced to Code Reviews and gave feedback on a peer's project. We focused on giving feedback in a positive way, asking good questions and for clarification where necessary. I found it very interesting to see how another group tackled similar problems and I also enjoyed just reading, understanding and making a mental visual model of another group's app.
+
+Day 51:
+We started off with a workshop on writing effective documentation. We learned about the importance of writing concise, user-friendly, clear documentation that respects the user’s time.
+
+We then set about writing documentation for our week 9 projects. It was an interesting experience to be in the shoes of the person writing documentation rather than consuming it. We tried our best to put ourselves in our user’s shoes, focusing on offering clear and user-friendly docs.
+
+I also spent another hour or so working through a few more of NetNinja’s React classes.
+
+Day 52:
+We Finished writing documentation for our project.
+
+Watched a few tutorials on React Testing Library and managed to incorporate a few simple tests into our app.
+
+Played around and experimented with git branching a bit more, so as to try and avoid any merging conflicts etc on our next SoC project.
+
+-Worked through some more of NetNinja’s React course on Udemy.
+
+Day 53:
+Before class, I improved the functionality of our form from last week’s project. I also added some error handling and a loading message for the site's initial fetch request.
+
+We were introduced to Auth0 and discussed the difference between Authentication and Authorisation. We then began a workshop where we practised implementing Auth0 into the front-end and back-end of an empty project.
+
+Had a little play around with some CSS animations in the evening.
+
+Day 54 and 55:
+We spent most of Friday continuing the workshop on Auth0. Implementing it on the front-end was relatively pain-free but the back-end implementation was very difficult and I will need to look at this further.
+
+In preparation for the final 4-week project I began learning NextJs, as I saw that many teams from previous SoC bootcamps used it in their final project. I completed Net Ninjas Next js course and managed to deploy the app with Vercel. It was surprisingly easy to deploy! Although I’m just scratching the surface at the moment, I can see why Nextjs is so popular. Looking forward to diving deeper into it next week.
+
+Day 56
+We were introduced to Netlify and deployed a Single Page Application. We also looked into more features offered by Netlify such as Netlify forms, continuous deployment, plugins, edge function etc.
+
+Spent a couple of hours working on a React project.
+
+Day 57:
+I learned about and practised using React Fragments, modal components, children, portals and functions as props. I also learned about styling React Apps using global stylesheets, component stylesheets, CSS modules, and dynamic and conditional inline styles.
+
+We delved deeper into deployment and managed to deploy and link a simple front-end and back-end app with Heroku and Netlify.
+
+Also learned a bit about Headless CMS and watched a tutorial on Strapi. Strapi looks like it could make back-end life a whole lot easier!
+
+Day 58
+Before class, I began a NetNinja course on Nextjs and Contentful. So far Contentful seems to be an extremely useful tool that can really help to simplify back-end development. Looking forward to learning more!
+
+in the morning we were introduced to the Context hook and wrote an article with the aim of explaining state, props and Context to our peers.
+
+In the afternoon we were introduced to React Hooks and completed a workshop where we practised using them. I can see how they can very useful in abstracting away code and making reusable functions.
