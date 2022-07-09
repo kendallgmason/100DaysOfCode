@@ -4,6 +4,10 @@ A diary documenting my 100 Days of Code learning Journey and my journey on the S
 
 Videos are done everyday to chart my journey via the power of Youtube. I've also done a text journal to suit everyone.  
 
+Follow the full video playlist of the full 100 days here: 
+
+https://www.youtube.com/channel/UCIuM35FoJCnNdu7Wr18EGDA
+
 Day 0
 
 Prior to beginning my 100 Days of Code journey I had been an ESL teacher for 8 years. Last year I began to teach myself HTML and CSS whilst working full time. I used Codecademy as my main learning resource.
