@@ -1,4 +1,4 @@
-# 100DaysOfCode
+# 100 Days Of Code
 
 A diary documenting my 100 Days of Code learning Journey and my journey on the School of Code Bootcamp. 
 
